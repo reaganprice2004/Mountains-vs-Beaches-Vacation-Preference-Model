@@ -1,5 +1,6 @@
 # User Vacation Preference Prediction
 **Course:** ISE-221: Intelligent Systems
+
 **Timeline:** October 2024-December 2024
 ## Overview
 This project explores the development of classification models to predict whether individuals prefer vacationing in the **mountains** or at the **beach**,based on features such as
