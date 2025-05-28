@@ -87,8 +87,10 @@ We implemented both **logistic regression** and an **artificial neural network (
 - Seaborn
 - Scikit-learn
 - TensorFlow / Keras
+
 Install dependencies:
 `'''bash`
+
 `pip install pandas numpy matplotlib seaborn scikit-learn tensorflow`
 ## 📚 License
 MIT - This project was created for educational purposes as part of the ISE-221 Intelligent Systems course. Free to use and modify with attribution!
