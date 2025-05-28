@@ -17,7 +17,7 @@ We implemented both **logistic regression** and an **artificial neural network (
 ## 🧹 Data Preprocessing
 - **Dataset:** 'MvS-Scaled.csv' 
 - **Features Selected:**
-    - 'Proximity_to_Mountains'
+    - `Proximity_to_Mountains`
     - 'Proximity_to_Beaches'
     - 'Vacation_Budget'
     - 'Age'
