@@ -2,8 +2,11 @@
 **Course:** ISE-221: Intelligent Systems
 
 **Timeline:** October 2024-December 2024
+
+**Team Members:** Carter Thumm, David McDonald, and Landon Houston
+
 ## 🗺️ Overview
-This project explores the development of classification models to predict whether individuals prefer vacationing in the **mountains** or at the **beach**,based on features such as
+This project explores the development of classification models to predict whether individuals prefer vacationing in the **mountains** or at the **beach**, based on features such as
 - Age
 - Proximity to mountains and beaches
 - Vacation budget
@@ -94,3 +97,5 @@ Install dependencies:
 `pip install pandas numpy matplotlib seaborn scikit-learn tensorflow`
 ## 📚 License
 MIT - This project was created for educational purposes as part of the ISE-221 Intelligent Systems course. Free to use and modify with attribution!
+
+
