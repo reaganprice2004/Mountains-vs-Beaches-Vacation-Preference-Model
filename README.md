@@ -1,4 +1,4 @@
-# 🏖️🏔️ User Vacation Preference Prediction
+# 🏖️🏔️ User Vacation Preference Prediction (Python)
 **Course:** ISE-221: Intelligent Systems
 
 **Timeline:** October 2024-December 2024
